@@ -1,0 +1,6 @@
+{
+  "name": "Moe Workforce — Universal AI Workforce Platform",
+  "description": "Interactive desktop prototype and Technical Blueprint v2.0 inspector for the Moe Technologies Universal AI Workforce Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
